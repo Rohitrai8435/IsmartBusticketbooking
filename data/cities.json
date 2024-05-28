@@ -1,0 +1,417 @@
+[
+  {
+    "id": "0",
+    "ville": "Raisen",
+    "region": "5"
+  },
+  {
+    "id": "1",
+    "ville": "Vidisha",
+    "region": "9"
+  },
+  {
+    "id": "2",
+    "ville": "Mandideep",
+    "region": "8"
+  },
+  {
+    "id": "3",
+    "ville": "Sehore",
+    "region": "5"
+  },
+  {
+    "id": "4",
+    "ville": "Indore",
+    "region": "9"
+  },
+  {
+    "id": "5",
+    "ville": "Ajampur",
+    "region": "3"
+  },
+  {
+    "id": "6",
+    "ville": "Ujjain",
+    "region": "2"
+  },
+  {
+    "id": "7",
+    "ville": "Amalya",
+    "region": "4"
+  },
+  {
+    "id": "8",
+    "ville": "Sanchi",
+    "region": "3"
+  },
+  {
+    "id": "9",
+    "ville": "Sagar",
+    "region": "7"
+  },
+  {
+    "id": "10",
+    "ville": "Bhopal",
+    "region": "1"
+  },
+  {
+    "id": "11",
+    "ville": "Alirajpur",
+    "region": "1"
+  },
+  {
+    "id": "12",
+    "ville": "Anuppur",
+    "region": "9"
+  },
+  {
+    "id": "13",
+    "ville": "Ashoknagar",
+    "region": "2"
+  },
+  {
+    "id": "14",
+    "ville": "Balaghat",
+    "region": "3"
+  },
+  {
+    "id": "15",
+    "ville": "Barwani",
+    "region": "2"
+  },
+  {
+    "id": "16",
+    "ville": "Ajabpura",
+    "region": "1"
+  },
+  {
+    "id": "17",
+    "ville": "Arjunkhedi",
+    "region": "8"
+  },
+  {
+    "id": "18",
+    "ville": "Arrawati",
+    "region": "5"
+  },
+  {
+    "id": "19",
+    "ville": "Babachiya",
+    "region": "7"
+  },
+  {
+    "id": "20",
+    "ville": "Babukhedi",
+    "region": "9"
+  },
+  {
+    "id": "21",
+    "ville": "Bagapura",
+    "region": "8"
+  },
+  {
+    "id": "22",
+    "ville": "Bagsi",
+    "region": "9"
+  },
+  {
+    "id": "23",
+    "ville": "Bahrawal",
+    "region": "9"
+  },
+  {
+    "id": "24",
+    "ville": "Bairagarh",
+    "region": "9"
+  },
+  {
+    "id": "25",
+    "ville": "Bamhora",
+    "region": "4"
+  },
+  {
+    "id": "26",
+    "ville": "Bandikhedi",
+    "region": "8"
+  },
+  {
+    "id": "27",
+    "ville": "Bandrua",
+    "region": "10"
+  },
+  {
+    "id": "28",
+    "ville": "Baniyatodi",
+    "region": "7"
+  },
+  {
+    "id": "29",
+    "ville": "Banjari",
+    "region": "1"
+  },
+  {
+    "id": "30",
+    "ville": "Barkheda Baramad",
+    "region": "12"
+  },
+  {
+    "id": "31",
+    "ville": "Bhatni",
+    "region": "6"
+  },
+  {
+    "id": "32",
+    "ville": "Bhaupura",
+    "region": "5"
+  },
+  {
+    "id": "33",
+    "ville": "Chandpura",
+    "region": "3"
+  },
+  {
+    "id": "34",
+    "ville": "Chandbad Kadim",
+    "region": "2"
+  },
+  {
+    "id": "35",
+    "ville": "Chandan Khedi",
+    "region": "3"
+  },
+  {
+    "id": "36",
+    "ville": "Chanda Saloi",
+    "region": "1"
+  },
+  {
+    "id": "37",
+    "ville": "Chakkheda",
+    "region": "2"
+  },
+  {
+    "id": "38",
+    "ville": "Chachakhedi",
+    "region": "6"
+  },
+  {
+    "id": "39",
+    "ville": "Bineka",
+    "region": "3"
+  },
+  {
+    "id": "40",
+    "ville": "Bijawan Kalan",
+    "region": "3"
+  },
+  {
+    "id": "41",
+    "ville": "Bijapura",
+    "region": "3"
+  },
+  {
+    "id": "42",
+    "ville": "Bhujpura Khurd",
+    "region": "5"
+  },
+  {
+    "id": "43",
+    "ville": "Bhonrasa",
+    "region": "9"
+  },
+  {
+    "id": "44",
+    "ville": "Bhojapura",
+    "region": "3"
+  },
+  {
+    "id": "45",
+    "ville": "Betul",
+    "region": "1"
+  },
+  {
+    "id": "46",
+    "ville": "Bhind",
+    "region": "9"
+  },
+  {
+    "id": "47",
+    "ville": "Burhanpur",
+    "region": "5"
+  },
+  {
+    "id": "48",
+    "ville": "Chhatarpur",
+    "region": "5"
+  },
+  {
+    "id": "49",
+    "ville": "Chhindwara",
+    "region": "9"
+  },
+  {
+    "id": "50",
+    "ville": "Damoh",
+    "region": "7"
+  },
+  {
+    "id": "51",
+    "ville": "Datia",
+    "region": "8"
+  },
+  {
+    "id": "52",
+    "ville": "Dewas",
+    "region": "1"
+  },
+  {
+    "id": "53",
+    "ville": "Dhar",
+    "region": "1"
+  },
+  {
+    "id": "54",
+    "ville": "Guna",
+    "region": "5"
+  },
+  {
+    "id": "55",
+    "ville": "Dindori",
+    "region": "6"
+  },
+  {
+    "id": "56",
+    "ville": "Gwalior",
+    "region": "7"
+  },
+  {
+    "id": "57",
+    "ville": "Harda",
+    "region": "9"
+  },
+  {
+    "id": "58",
+    "ville": "Hoshangabad",
+    "region": "2"
+  },
+  {
+    "id": "59",
+    "ville": "Jabalpur",
+    "region": "6"
+  },
+  {
+    "id": "60",
+    "ville": "Jhabua",
+    "region": "5"
+  },
+  {
+    "id": "61",
+    "ville": "Katni",
+    "region": "6"
+  },
+  {
+    "id": "62",
+    "ville": "Khandwa ",
+    "region": "2"
+  },
+  {
+    "id": "63",
+    "ville": "Khargone",
+    "region": "6"
+  },
+  {
+    "id": "64",
+    "ville": "Mandla",
+    "region": "3"
+  },
+  {
+    "id": "65",
+    "ville": "Mandsaur",
+    "region": "5"
+  },
+  {
+    "id": "66",
+    "ville": "Morena",
+    "region": "9"
+  },
+  {
+    "id": "67",
+    "ville": "Narsimhapur",
+    "region": "6"
+  },
+  {
+    "id": "68",
+    "ville": "Panna",
+    "region": "2"
+  },
+  {
+    "id": "69",
+    "ville": "Rajgarh",
+    "region": "1"
+  },
+  {
+    "id": "70",
+    "ville": "Ratlam",
+    "region": "2"
+  },
+  {
+    "id": "71",
+    "ville": "Rewa",
+    "region": "2"
+  },
+  {
+    "id": "72",
+    "ville": "Sagar",
+    "region": "1"
+  },
+  {
+    "id": "73",
+    "ville": "Satna",
+    "region": "2"
+  },
+  {
+    "id": "74",
+    "ville": "Sehore",
+    "region": "2"
+  },
+  {
+    "id": "75",
+    "ville": "Seoni",
+    "region": "2"
+  },
+  {
+    "id": "76",
+    "ville": "Shahdol",
+    "region": "8"
+  },
+  {
+    "id": "77",
+    "ville": "Shajapur",
+    "region": "3"
+  },
+  {
+    "id": "78",
+    "ville": "Sheopur",
+    "region": "7"
+  },
+  {
+    "id": "79",
+    "ville": "Shivpuri",
+    "region": "2"
+  },
+  {
+    "id": "80",
+    "ville": "Sidhi",
+    "region": "10"
+  },
+  {
+    "id": "81",
+    "ville": "Singrauli",
+    "region": "11"
+  },
+  {
+    "id": "82",
+    "ville": "Tikamgarh",
+    "region": "5"
+  }
+]
