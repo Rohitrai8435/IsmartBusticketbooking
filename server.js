@@ -6,12 +6,20 @@ const port = process.env.PORT || 5000;
 const dbConfig = require("./config/dbConfig");
 const bodyParser = require("body-parser");
 
-// Configure CORS to allow all origins
-app.use(
-  cors({
-    origin: ["https://ismartbusticketbooking.onrender.com"],
-  })
-);
+// Configure CORS to handle credentials properly
+const corsOptions = {
+  origin: function (origin, callback) {
+    // Allow requests from the specified origin
+    if (!origin || origin === "http://localhost:5173") {
+      callback(null, true);
+    } else {
+      callback(new Error("Not allowed by CORS"));
+    }
+  },
+  credentials: true,
+};
+
+app.use(cors(corsOptions));
 
 app.use(express.json());
 app.use(bodyParser.json());
