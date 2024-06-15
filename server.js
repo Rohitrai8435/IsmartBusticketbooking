@@ -10,7 +10,7 @@ const bodyParser = require("body-parser");
 const corsOptions = {
   origin: function (origin, callback) {
     // Allow requests from the specified origin
-    if (!origin || origin === "http://localhost:5173") {
+    if (!origin || origin === "http://localhost:3000/") {
       callback(null, true);
     } else {
       callback(new Error("Not allowed by CORS"));
