@@ -9,7 +9,7 @@ const bodyParser = require("body-parser");
 // Configure CORS to allow all origins
 app.use(
   cors({
-    origin: "*",
+    origin: ["https://ismartbusticketbooking.onrender.com"],
   })
 );
 
